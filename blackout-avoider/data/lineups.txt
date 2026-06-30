@@ -1,0 +1,9 @@
+# BlackoutAvoider input lineups.
+# Format: name: per-slot enjoyment values (one 30-min slot each).
+# These inputs make all reported results reproducible.
+happy_hour:     3 8 5 9
+rising_night:   2 4 6 8 10 12
+late_peak:      3 4 5 6 8 7 9 12 10 8 5 3
+energy_trap:    9 9 9 9 9 9 9 9 9 9
+already_peaked: 12 9 6 3 1 1
+dud_night:      1 1 1 1 1
